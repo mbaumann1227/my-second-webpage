@@ -11,7 +11,15 @@ p {
   text-align: center;
 }
 
+ul {
+  font-family: sans-serif;
+}
+
 p.intro {
   font-style: italic;
   text-align: center;
+}
+
+.alignment {
+  text-align: left;
 }
