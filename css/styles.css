@@ -8,6 +8,19 @@ body{
   margin: 0;
 }
 
+a{
+  text-decoration: none;
+  color:#708090;
+}
+
+a:hover{
+  color: #2f4f4f;
+}
+
+a:visited{
+  color:#5F9EA0
+}
+
 .container{
   width:80%;
   margin:auto;
@@ -26,6 +39,7 @@ body{
   word-spacing: 0;
   line-height: 1em;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
 }
 
 .box-1 p{
@@ -33,13 +47,23 @@ body{
   line-height: 1.7em;
 }
 
+
 .index{
-  border:0
-  padding:15px;
+  border: 0.5px #ccc solid;
+  padding:10px;
   border-radius: 15px;
 }
 
+.index h2{
+  text-align: center;
+  text-decoration: underline;
+}
 
+.index ul{
+  list-style:none;
+  padding:0;
+  text-align: center;
+}
 
 
 
