@@ -44,4 +44,12 @@ a:hover{
   text-align: center;
 }
 
+.block{
+  float: left;
+  width: 33.3%;
+  border: 1px solid #000000;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
 
