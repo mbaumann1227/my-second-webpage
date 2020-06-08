@@ -52,4 +52,14 @@ a:hover{
   box-sizing: border-box;
 }
 
+.index-block{
+  float: left;
+  width: 70%;
+  padding: 10px;
+}
+
+.index-block h2{
+  font-size: 15px;
+}
+
 
